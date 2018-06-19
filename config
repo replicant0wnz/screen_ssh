@@ -1,0 +1,2 @@
+PermitLocalCommand yes
+LocalCommand ~/bin/ssh_hostname.sh %h
