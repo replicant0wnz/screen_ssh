@@ -2,7 +2,7 @@
 
 Simple way to automate the setting of the screen window to the SSH host you are logging into. Will revert the window back to the local hostname upon logging out.
 
-# The filezzzzz
+# The file_id.diz
 
 ```
 s
